@@ -55,3 +55,7 @@ h6 .text-primary{
 	letter-spacing : -0.05rem ;
 	line-height : 1rem
 }
+
+div .intro-heading text-uppercase{
+	text-color: Tomato
+}
