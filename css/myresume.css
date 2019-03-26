@@ -60,3 +60,24 @@ h6 .text-primary{
 div .intro-heading text-uppercase{
 	text-color: #ff6347
 }
+
+nav-link js-scroll-trigger active{
+	text-color: #FFFFFF
+}
+
+#mainNav.navbar-shrink {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #FFFF77;
+}
+
+#mainNav .navbar-toggler {
+    font-size: 12px;
+    right: 0;
+    padding: 13px;
+    text-transform: uppercase;
+    color: #125d70;
+    border: 0;
+    background-color: #FFFF77;
+    font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+}
