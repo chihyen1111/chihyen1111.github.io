@@ -81,3 +81,7 @@ nav-link js-scroll-trigger active{
     background-color: #FFFF77;
     font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
 }
+
+ul.social-buttons {
+    margin: 0  auto;
+}
