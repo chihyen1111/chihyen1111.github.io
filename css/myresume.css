@@ -14,6 +14,11 @@ h1, h2, h3, h4, h5, h6 , p, div{
 	text-color: rgb(255,99,71)
 	
 }
+#portfolio .portfolio-item .portfolio-caption h4 {
+    margin: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-transform: none;
+}
 
 h1 .text-primary{
 	font-family: 'Noto Sans TC', sans-serif;
@@ -113,8 +118,4 @@ ul.social-buttons li a {
     background-color: #FFFF77;
 }
 
-#portfolio .portfolio-item .portfolio-caption h4 {
-    margin: 0;
-    font-family: 'Noto Sans TC', sans-serif;
-    text-transform: none;
-}
+
