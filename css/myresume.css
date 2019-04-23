@@ -112,3 +112,9 @@ ul.social-buttons li a {
 
     background-color: #FFFF77;
 }
+
+#portfolio .portfolio-item .portfolio-caption h4 {
+    margin: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-transform: none;
+}
