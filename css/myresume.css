@@ -14,6 +14,11 @@ h1, h2, h3, h4, h5, h6 , p, div{
 	text-color: rgb(255,99,71)
 	
 }
+#portfolio .portfolio-item .portfolio-caption h4 {
+    margin: 0;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-transform: none;
+}
 
 h1 .text-primary{
 	font-family: 'Noto Sans TC', sans-serif;
@@ -91,4 +96,26 @@ ul.social-buttons {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: #CCCCFF;
+background-color: #CCCCFF;
+}
+
+ul.social-buttons li a {
+    font-size: 20px;
+    line-height: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    color: #125d70;
+    border-radius: 100%;
+    outline: 0;
+	background-color: #FFFF77;
+}
+
+.timeline>li .timeline-image {
+
+    background-color: #FFFF77;
+}
+
+
